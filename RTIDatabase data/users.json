@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "6021c09f9719fc042080181c"
+  },
+  "username": "nm150579d@student.etf.rs",
+  "password": "moma123",
+  "firstName": "Momcilo",
+  "lastName": "Nikolic",
+  "status": "active",
+  "category": "student",
+  "index": "2015/0579",
+  "type": "d",
+  "attends": [
+    "SI4PIA",
+    "SI4PP1",
+    "SI3KDP"
+  ],
+  "__v": 5,
+  "engagedIn": []
+},{
+  "_id": {
+    "$oid": "6022c9ad9719fc04208049f2"
+  },
+  "username": "admin",
+  "password": "moma123",
+  "firstName": "Momcilo",
+  "lastName": "Nikolic",
+  "status": "active",
+  "category": "admin",
+  "__v": 1,
+  "engagedIn": []
+},{
+  "_id": {
+    "$oid": "6025e0e2ac9c68b634c277e2"
+  },
+  "address": "Adresa",
+  "title": "redovni profesor",
+  "officeNumber": 55,
+  "username": "pedja@etf.bg.ac.rs",
+  "password": "pedja123",
+  "firstName": "Predrag",
+  "lastName": "Mitrovic",
+  "status": "active",
+  "category": "personnel",
+  "engagedIn": [
+    "SI4PIA"
+  ],
+  "__v": 2,
+  "personalData": "",
+  "attends": []
+},{
+  "_id": {
+    "$oid": "6029cd639719fc0420812445"
+  },
+  "title": "redovni profesor",
+  "officeNumber": "37b",
+  "username": "drazen.draskovic@etf.bg.ac.rs",
+  "password": "drazen123",
+  "firstName": "Dražen",
+  "lastName": "Drašković",
+  "category": "personnel",
+  "status": "active",
+  "engagedIn": [
+    "SI4PIA"
+  ],
+  "phoneNumber": "066/322-215",
+  "website": "www.drazen.com",
+  "address": "Adresa",
+  "__v": 1,
+  "attends": [],
+  "personalData": "Licni podaci",
+  "image": "drazen.draskovic@etf.bg.ac.rs.jpg"
+},{
+  "_id": {
+    "$oid": "603936e114bd06f700c1248a"
+  },
+  "attends": [],
+  "engagedIn": [
+    "SI4PIA",
+    "SI3KDP"
+  ],
+  "category": "personnel",
+  "username": "jelica@etf.bg.ac.rs",
+  "password": "sifra123",
+  "firstName": "Jelica",
+  "lastName": "Cincovic",
+  "address": "Adresa",
+  "personalData": "Licni podaci",
+  "title": "asistent",
+  "officeNumber": "22",
+  "status": "active",
+  "image": "jelica@etf.bg.ac.rs.jpg",
+  "__v": 2
+}]

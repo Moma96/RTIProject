@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "602aa5809719fc0420819f93"
+  },
+  "id": "SI4PIA",
+  "name": "Programiranje Internet Aplikacija",
+  "ects": 6,
+  "department": "SI",
+  "semester": 7,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032bc5a18cb303036df16ea"
+  },
+  "id": "SI4PP1",
+  "name": "Programski prevodioci 1",
+  "ects": 6,
+  "department": "SI",
+  "semester": 7,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032bcb118cb303036df1704"
+  },
+  "id": "ER4PP1",
+  "name": "Programski prevodioci 1",
+  "ects": 6,
+  "department": "RTI",
+  "semester": 7,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032bce018cb303036df1714"
+  },
+  "id": "SI3KDP",
+  "name": "Konkurentno i distribuirano programiranje",
+  "ects": 6,
+  "department": "SI",
+  "semester": 7,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032bceb18cb303036df1724"
+  },
+  "id": "ER3KDP",
+  "name": "Konkurentno i distribuirano programiranje",
+  "ects": 6,
+  "department": "RTI",
+  "semester": 7,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032bd1c18cb303036df1736"
+  },
+  "id": "ER2OS1",
+  "name": "Operativni sistemi 1",
+  "ects": 6,
+  "department": "RTI",
+  "semester": 4,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032bd3a18cb303036df174f"
+  },
+  "id": "SI2OS1",
+  "name": "Operativni sistemi 1",
+  "ects": 6,
+  "department": "SI",
+  "semester": 4,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Ponedeljak od 13h do 15h",
+  "practicalClassSchedule": "Sreda od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032c9a918cb303036df1f1e"
+  },
+  "id": "M1RG",
+  "name": "Interaktivna računarska grafika",
+  "ects": 6,
+  "department": "M",
+  "semester": 1,
+  "mandatory": true,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Utorak od 13h do 15h",
+  "practicalClassSchedule": "Četvrtak od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032c9f118cb303036df1f63"
+  },
+  "id": "M2BP2",
+  "name": "Odbrana poglavlja baza podataka",
+  "ects": 6,
+  "department": "M",
+  "semester": 2,
+  "mandatory": false,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Utorak od 13h do 15h",
+  "practicalClassSchedule": "Četvrtak od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032ca2818cb303036df1f8f"
+  },
+  "id": "M1IS",
+  "name": "Inteligentni servisi i sistemi",
+  "ects": 6,
+  "department": "M",
+  "semester": 1,
+  "mandatory": false,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Utorak od 13h do 15h",
+  "practicalClassSchedule": "Četvrtak od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+},{
+  "_id": {
+    "$oid": "6032ca8818cb303036df1fed"
+  },
+  "id": "M2MMS",
+  "name": "Multimedijalni sistemi",
+  "ects": 6,
+  "department": "M",
+  "semester": 2,
+  "mandatory": false,
+  "classLoad": "2 + 2 + 1",
+  "classSchedule": "Utorak od 13h do 15h",
+  "practicalClassSchedule": "Četvrtak od 13h do 15h",
+  "goal": "Upoznavanje sa osnovnim pojmovima razvoja višeslojnih Internet aplikacija baziranih na programskom jeziku Java. Biće pokazana primena najsavremenijih tehnologija za dizajn i implementaciju Internet aplikacija. Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći moderne načine i savremene veb tehnologije. Nakon izrade projekta, studenti će biti spremni za razvoj (ne)komercijalnih Internet aplikacija.",
+  "outcome": "Studenti će biti osposobljeni da projektuju i razviju višeslojne Internet aplikacije potrebne složenosti koristeći najefikasnije metode i tehnologije.",
+  "details": "Predmet se polaže preko dva kolokvijuma i projekta. Kolokvijumi vrede po 35 poena, a projekat vredi 30.",
+  "hasLabs": true,
+  "labDetails": "U toku semestra se održavaju dve laboratorijske vežbe. Pokaznog su karaktera i nije obavezno prisustvo. Pred svaku vežbu, studentima se šalje prijava za potvrdu prisustva. Na prvoj laboratorijskoj vežbi se radi JSF tehnologija, a na drugoj MEAN stack tehnologija."
+}]

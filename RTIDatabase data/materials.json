@@ -1,0 +1,322 @@
+[{
+  "_id": {
+    "$oid": "6029b98f9719fc0420811a02"
+  },
+  "subject": "SI4PIA",
+  "category": "practical",
+  "title": "Uvod u HTML",
+  "fileName": "PIA_Vezbe1_HTML",
+  "fileExtension": "pdf",
+  "fileSize": 627,
+  "time": "2021-02-21 02:19:41.479Z",
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 2
+},{
+  "_id": {
+    "$oid": "6035b565bb06c1400c3c3c3d"
+  },
+  "title": "CSS Vezbe",
+  "subject": "SI4PIA",
+  "category": "practical",
+  "fileName": "PIA_Vezbe4_CSS",
+  "fileExtension": "pdf",
+  "fileSize": 269,
+  "time": {
+    "$date": "2021-02-24T02:09:41.479Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6035c0d3696d739a388188d6"
+  },
+  "title": "proba",
+  "subject": "SI4PIA",
+  "category": "practical",
+  "fileName": "ao_ao ao!!!",
+  "fileExtension": "zip",
+  "fileSize": 17,
+  "time": {
+    "$date": "2021-02-24T02:58:26.960Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036e1fe1315a7b24886e5fb"
+  },
+  "title": "Prvi kolokvijum - postavka",
+  "subject": "SI4PIA",
+  "category": "exam",
+  "fileName": "PIA_2019_04_K1_grupaA",
+  "fileExtension": "pdf",
+  "fileSize": 132,
+  "time": {
+    "$date": "2021-02-24T23:32:14.586Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036e23e1315a7b24886e5fc"
+  },
+  "title": "Prvi kolokvijum - rešenje",
+  "subject": "SI4PIA",
+  "category": "exam",
+  "fileName": "2019_04_grupaA",
+  "fileExtension": "zip",
+  "fileSize": 61,
+  "time": {
+    "$date": "2021-02-24T23:33:18.179Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036e2701315a7b24886e5fd"
+  },
+  "title": "Junski rok - postavka",
+  "subject": "SI4PIA",
+  "category": "exam",
+  "fileName": "PIA_Jun_1819",
+  "fileExtension": "pdf",
+  "fileSize": 154,
+  "time": {
+    "$date": "2021-02-24T23:34:08.582Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036e2831315a7b24886e5fe"
+  },
+  "title": "Junski rok - rešenje",
+  "subject": "SI4PIA",
+  "category": "exam",
+  "fileName": "2019_jun_angular_resenje",
+  "fileExtension": "zip",
+  "fileSize": 22,
+  "time": {
+    "$date": "2021-02-24T23:34:27.944Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036e2971315a7b24886e5ff"
+  },
+  "title": "Julski rok - postavka",
+  "subject": "SI4PIA",
+  "category": "exam",
+  "fileName": "PIA_Jun_1819(1)",
+  "fileExtension": "pdf",
+  "fileSize": 154,
+  "time": {
+    "$date": "2021-02-24T23:34:46.979Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6036e2a21315a7b24886e600"
+  },
+  "title": "Julski rok - rešenje",
+  "subject": "SI4PIA",
+  "category": "exam",
+  "fileName": "2019_jun_angular_resenje(1)",
+  "fileExtension": "zip",
+  "fileSize": 22,
+  "time": {
+    "$date": "2021-02-24T23:34:58.196Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6037ff2d59cadcb0d844a896"
+  },
+  "title": "Uvodna lekcija",
+  "subject": "SI4PIA",
+  "category": "class",
+  "fileName": "PIA_Lekcija1_Uvod",
+  "fileExtension": "pdf",
+  "fileSize": 2874,
+  "time": {
+    "$date": "2021-02-25T19:49:01.516Z"
+  },
+  "uploadedBy": "Predrag Mitrovic",
+  "position": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6037ffb959cadcb0d844a897"
+  },
+  "title": "JSF lekcija",
+  "subject": "SI4PIA",
+  "category": "class",
+  "fileName": "PIA_Lekcija4_JSF",
+  "fileExtension": "pdf",
+  "fileSize": 1929,
+  "time": {
+    "$date": "2021-02-25T19:51:21.349Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6037fff159cadcb0d844a898"
+  },
+  "title": "Angular",
+  "subject": "SI4PIA",
+  "category": "class",
+  "fileName": "si4pia_Angular7-P1-P3",
+  "fileExtension": "pdf",
+  "fileSize": 2735,
+  "time": {
+    "$date": "2021-02-25T19:52:17.297Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6038000e59cadcb0d844a899"
+  },
+  "title": "MEAN",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "MEAN",
+  "fileExtension": "pdf",
+  "fileSize": 208,
+  "time": {
+    "$date": "2021-02-25T19:52:46.787Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6038001659cadcb0d844a89a"
+  },
+  "title": "Angular",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "Angular",
+  "fileExtension": "pdf",
+  "fileSize": 200,
+  "time": {
+    "$date": "2021-02-25T19:52:54.611Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6038002659cadcb0d844a89b"
+  },
+  "title": "JavaScript",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "JavaScript_vezbe",
+  "fileExtension": "pdf",
+  "fileSize": 1056,
+  "time": {
+    "$date": "2021-02-25T19:53:10.618Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6038003859cadcb0d844a89c"
+  },
+  "title": "JSF",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "PIA_Lekcija4_JSF",
+  "fileExtension": "pdf",
+  "fileSize": 1929,
+  "time": {
+    "$date": "2021-02-25T19:53:28.073Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603aa80bfb5fd00ca57b0589"
+  },
+  "title": "JSF postavka",
+  "details": "Postavka prve laboratorijske vežbe. Prva laboratorijska vežba se radi u JavaServer Faces tehnologiji.",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "PIA_labJSF_2020_11",
+  "fileExtension": "pdf",
+  "fileSize": 162,
+  "time": {
+    "$date": "2021-02-27T20:14:03.174Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603aaa82fb5fd00ca57b058a"
+  },
+  "title": "JSF fajlovi",
+  "details": "Ovo su potrebni fajlovi za prvu laboratorijsku vežbu.",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "Lab1_SI_JSF_baza+fajlovi",
+  "fileExtension": "zip",
+  "fileSize": 3,
+  "time": {
+    "$date": "2021-02-27T20:24:34.548Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603aaadafb5fd00ca57b058b"
+  },
+  "title": "JSF rešenje",
+  "details": "Rešenje za prvu laboratorijsku vežbu.",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "Lab1_SI_JSF_resenje",
+  "fileExtension": "zip",
+  "fileSize": 19,
+  "time": {
+    "$date": "2021-02-27T20:26:02.380Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603aab42fb5fd00ca57b058c"
+  },
+  "title": "MEAN",
+  "details": "Postavka druge laboratorijske vežbe.",
+  "subject": "SI4PIA",
+  "category": "lab",
+  "fileName": "SI_Lab2_MEAN_20_21",
+  "fileExtension": "pdf",
+  "fileSize": 130,
+  "time": {
+    "$date": "2021-02-27T20:27:46.101Z"
+  },
+  "uploadedBy": "Dražen Drašković",
+  "position": 4,
+  "__v": 0
+}]
